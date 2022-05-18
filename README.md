@@ -32,6 +32,7 @@ Asteroids game
 
 
 ## _Một số hình ảnh trong game_
+-![game play](https://user-images.githubusercontent.com/88938938/169111750-e669e514-1c5c-41a6-bc9b-a5df2f577018.png)
 
 
 
