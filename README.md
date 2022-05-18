@@ -32,8 +32,12 @@ Asteroids game
 
 
 ## _Một số hình ảnh trong game_
--![game play](https://user-images.githubusercontent.com/88938938/169111750-e669e514-1c5c-41a6-bc9b-a5df2f577018.png)
-
+- Menu game
+![menu game](https://user-images.githubusercontent.com/88938938/169112337-65273a98-9999-4c3c-a14a-11c99a8fa1ca.png)
+- Game play
+![game play](https://user-images.githubusercontent.com/88938938/169111750-e669e514-1c5c-41a6-bc9b-a5df2f577018.png)
+- Game over
+![game over](https://user-images.githubusercontent.com/88938938/169112262-7e2da86a-b565-42f8-944d-4303d38c9d36.png)
 
 
 ## _Các kĩ thuật sử dụng_
@@ -59,8 +63,7 @@ _**Kĩ thuật khác**_
 
 ## _Cài đặt_
 - Clone code trên github.
-- Cop file dll ra bên ngoài tệp.
-- Để gỡ bỏ, vào Control Panel -> Uninstall a program, tìm Setup1 và gỡ.
+- Cop file dll vào thư mục Asteroids.
 
 
 ## _Nguồn tham khảo_
